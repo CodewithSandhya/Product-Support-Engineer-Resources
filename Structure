@@ -1,0 +1,25 @@
+Product-Support-Engineer-Resources/
+├── scripts/
+│   ├── automation/
+│   └── diagnostics/
+├── docs/
+│   ├── user_guides/
+│   ├── troubleshooting_guides/
+│   └── best_practices/
+├── knowledge_base/
+│   ├── how_tos/
+│   └── faqs/
+├── configs/
+│   ├── example_configs/
+│   └── setup_guides/
+├── case_studies/
+├── tutorials/
+├── projects/
+│   ├── open_source_contributions/
+│   └── personal_projects/
+├── tools/
+├── feedback/
+│   ├── surveys/
+│   └── feedback_tools/
+├── dashboards/
+└── README.md
